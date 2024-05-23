@@ -1,24 +1,27 @@
 #top {
     width: 800px;
     background-color: #dcc9f4;
-    padding: 20px 0px;
+    margin: 20px 0px;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .top-child {
     width: 20%;
     background-color: #ffd9df;
     display: inline-block;
-    margin: 0px;
 }
 
 #middle {
     width: 800px;
     height: 800px;
-    padding: 20px 0px;
+    margin: 20px 0px;
     text-align: center;
     background-color: #ffd9df;
     position: relative;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #middle-child01 {
@@ -53,6 +56,8 @@
     height: 300px;
     text-align: center;
     background-color: #87ceeb;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
